@@ -1,2 +1,5 @@
-print("Hello Monke!")
-print("This is day 1")
+print("what the fuck is your name?")
+n = input()
+print("How many bananas you have?")
+b = input()
+print("Hello "+n+"! You have "+b+" bananas.")
